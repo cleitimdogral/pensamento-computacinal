@@ -1,1 +1,12 @@
-h1{text-align: inherit;}
+h1{text-align: center;}
+div{
+  width: 450px ;
+  border: 5px  ;
+  padding: 50px;
+  margin: 20px;
+  display: flex;justify-content: space-around;
+  margin: 1 auto;
+  width: 20% auto;
+
+}
+h1{font-family: serif ;}
